@@ -14,9 +14,3 @@ link 준비중
 |position|기획|프론트|백엔드|
 |tech|Figma|Flutter|Django-Python|
 
-### 프로젝트
-
-[플러터 프로젝트 바로가기](https://github.com/RDDcat/got-of-select-flutter/tree/main/god_of_select)
-
-[백엔드 프로젝트 바로가기](https://github.com/kim-song-jun/god-of-select)
-
