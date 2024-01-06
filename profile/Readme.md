@@ -7,4 +7,4 @@
 
 ### 프로젝트
 
-
+[선택의 신](https://github.com/26k-tinos/.github/tree/main/project/god-of-select)
